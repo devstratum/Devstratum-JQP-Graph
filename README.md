@@ -102,7 +102,7 @@ Include local script files in html doc
 ![screenshot of sample](http://devstratum.ru/images/articles/2019/11/devstratum-jqp-graph-vizualizatsiya-grafikov/devstratum-jqp-graph-vizualizatsiya-grafikov_example-time.jpg)
 
 ```html
-<div class="graph__block" id="graph_02"></div>
+<div class="graph-conatainer" id="graph_02"></div>
 <script>
     jQuery(document).ready(function($) {
         var color_blue = '#4c8ffc';
@@ -225,9 +225,9 @@ Include local script files in html doc
 
 ## Info
 
-Version: 1.0
+Version: 1.1
 
-License: GNU General Public License v3.0
+License: MIT License
 
 Author: Sergey Osipov
 
