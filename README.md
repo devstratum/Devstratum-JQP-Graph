@@ -2,6 +2,8 @@
 
 jQuery plugin for render simple html block graphs
 
+![product preview](https://github.com/devstratum/Devstratum-JQP-Graph/blob/master/devstratum-jqp-graph.jpg)
+
 **Article**
 
 https://devstratum.ru/software/devstratum-jqp-graph-vizualizatsiya-grafikov
