@@ -6,7 +6,7 @@ Version: 1.1
 License: MIT License
 Author: Sergey Osipov
 Website: https://devstratum.ru
-Email: info@devstartum.ru
+Email: info@devstratum.ru
 Repo: https://github.com/devstratum/Devstratum-JQP-Graph
 
      _                _             _
